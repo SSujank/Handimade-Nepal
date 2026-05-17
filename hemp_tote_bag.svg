@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title>Hemp Tote Bag</title>
+  <desc>Eco-friendly handwoven tote bag</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6efe3"/>
+      <stop offset="100%" stop-color="#eadfce"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="115" cy="98" r="72" fill="#f0dfca" opacity="0.8"/>
+  <circle cx="685" cy="508" r="92" fill="#efe4d2" opacity="0.8"/>
+  <text x="60" y="74" font-size="16" font-family="Georgia, serif" letter-spacing="4" fill="#b86245">HANDICRAFT NEPAL</text>
+  <text x="60" y="112" font-size="38" font-family="Georgia, serif" font-weight="700" fill="#2f1f19">Hemp Tote Bag</text>
+  <text x="60" y="142" font-size="18" font-family="Arial, sans-serif" fill="#6b4a35">Textiles</text>
+  <g><path d="M300 235 Q325 180 380 180 H420 Q475 180 500 235 V390 H300 Z" fill="#7a8f69"/><path d="M340 235 Q360 205 385 205 H415 Q440 205 460 235" fill="none" stroke="#2f1f19" stroke-width="8"/></g>
+  <text x="60" y="520" font-size="22" font-family="Arial, sans-serif" fill="#6b4a35">Eco-friendly handwoven tote bag</text>
+  <text x="60" y="558" font-size="16" font-family="Arial, sans-serif" fill="#8c674c">Handmade craft product image for the online store</text>
+</svg>

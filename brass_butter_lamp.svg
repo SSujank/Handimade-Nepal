@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title>Brass Butter Lamp</title>
+  <desc>Traditional ritual lamp for altar spaces</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6efe3"/>
+      <stop offset="100%" stop-color="#eadfce"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="115" cy="98" r="72" fill="#f0dfca" opacity="0.8"/>
+  <circle cx="685" cy="508" r="92" fill="#efe4d2" opacity="0.8"/>
+  <text x="60" y="74" font-size="16" font-family="Georgia, serif" letter-spacing="4" fill="#b86245">HANDICRAFT NEPAL</text>
+  <text x="60" y="112" font-size="38" font-family="Georgia, serif" font-weight="700" fill="#2f1f19">Brass Butter Lamp</text>
+  <text x="60" y="142" font-size="18" font-family="Arial, sans-serif" fill="#6b4a35">Statues</text>
+  <g><ellipse cx="400" cy="320" rx="110" ry="38" fill="#d2a56c"/><path d="M320 320 L350 250 H450 L480 320" fill="#d2a56c"/><path d="M395 215 C420 240 420 265 400 290 C380 265 380 240 395 215 Z" fill="#d77d4a"/></g>
+  <text x="60" y="520" font-size="22" font-family="Arial, sans-serif" fill="#6b4a35">Traditional ritual lamp for altar spaces</text>
+  <text x="60" y="558" font-size="16" font-family="Arial, sans-serif" fill="#8c674c">Handmade craft product image for the online store</text>
+</svg>
